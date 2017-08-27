@@ -1,5 +1,6 @@
-INSERT INTO burgers_db (name) VALUES {
-('Buffalo');
-INSERT INTO burgers_db (name) VALUES ('Gator');
-INSERT INTO burgers_db (name) VALUES ('Roo');
+USE burgers_db;
+
+INSERT INTO burgers (burger_name) VALUES ('Buffalo');
+INSERT INTO burgers (burger_name) VALUES ('Gator');
+INSERT INTO burgers (burger_name) VALUES ('Roo');
 

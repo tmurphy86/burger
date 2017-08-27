@@ -10,6 +10,10 @@ var connection = mysql.createConnection({
   database: "burgers_db"
 });
 
+//timdb.cxwamrtpljtk.us-east-1.rds.amazonaws.com
+//followtim
+//db: gwcourse
+
 // Connect to the database
 connection.connect(function(err) {
   if (err) {
