@@ -8,7 +8,6 @@ A simple web app that uses MVC models with a self build ORM to update a mysql DB
   1. [Documentation](#documentation)
     1. [Installation](#installation)
     2. [Run](#run)
-    3. [Examples](#examples)
 
 
 
